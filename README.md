@@ -1,3 +1,4 @@
 # JS-demo
-Javascript practice first Git
-Auuthor - Manju Regmi
+Javascript practice first Git.
+<br>
+Author - Manju Regmi
